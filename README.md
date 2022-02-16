@@ -21,24 +21,37 @@
    *SECCIÓN 15–1 El sistema de los números complejos*
    
    1.¿Cuáles son las dos características de una cantidad indicada mediante un número complejo?
+   
+   * Los números complejos incluyen todas las raíces de los polinomios, a diferencia de los reales. 
+   
+   * Todo número complejo puede representarse como la suma de un número real y un número imaginario 
+   (que es un múltiplo real de la unidad imaginaria, que se indica con la letra i, o en forma polar).
 
    3.Localice los puntos representados por cada una de las siguientes coordenadas en el plano complejo:
   
    a) 3,j5  b) -7,j1  c) -10,-j10
    
+   ![](https://github.com/jlcastro5/Tarea8/blob/4e878aa0e815812e57d61398ec61c1513a2a3495/E3.PNG)
+   
    *5.Determine las coordenadas de cada punto que tenga igual magnitud pero esté localizado a 90° de los
    puntos del problema 3.
    
+   ![](https://github.com/jlcastro5/Tarea8/blob/4e878aa0e815812e57d61398ec61c1513a2a3495/E5.PNG)
+   
    7.¿Cuál es el valor de la hipotenusa de un triángulo rectángulo cuyos lados son 10 y 15?
+   
+   ![](https://github.com/jlcastro5/Tarea8/blob/4e878aa0e815812e57d61398ec61c1513a2a3495/E7.PNG)
    
    9.Convierta cada uno de los siguientes números polares a forma rectangular:
 
-   a)       b)        c)       d)  
+   a) 100<-50°      b) 15<160°       c) 25<-135°       d) 3<180° 
   
    11.Identifique el cuadrante en el cual se localiza cada uno de los puntos del problema 8.
 
    13.Escriba las expresiones polares utilizando ángulos positivos para cada uno de los fasores de la 
    figura 15-83. 
+   
+   ![](https://github.com/jlcastro5/Tarea8/blob/4e878aa0e815812e57d61398ec61c1513a2a3495/Figura15-83.PNG)
    
    15.Realice las siguientes sustracciones:
 
@@ -57,8 +70,12 @@
    21.Exprese la impedancia total de cada circuito mostrado en la figura 15-84 tanto en forma polar
    como rectangular.
    
+   ![](https://github.com/jlcastro5/Tarea8/blob/4e878aa0e815812e57d61398ec61c1513a2a3495/Figura15-84.PNG)
+   
    23.Para el circuito de la figura 15-86, determine la impedancia expresada en forma rectangular
    para cada una de las siguientes frecuencias:
+   
+   ![](https://github.com/jlcastro5/Tarea8/blob/4e878aa0e815812e57d61398ec61c1513a2a3495/Figura15-86.PNG)
    
    25.Determine los valores de R y XC en un circuito RC en serie para los siguientes valores de impedancia
    total:
@@ -66,23 +83,37 @@
    *SECCIÓN 15–4 Análisis de circuitos RC en serie*
    
    27.Calcule la corriente total en cada circuito de la figura 15-85 y exprésela en forma polar.
+
+   ![](https://github.com/jlcastro5/Tarea8/blob/2c0a8d93ea01e98b731568c7c6cad8c5284c73f3/Figura15-85.PNG)
    
    29.Repita el problema 28 para el circuito de la figura 15-86, con f =5 kHz.
+
+   ![](https://github.com/jlcastro5/Tarea8/blob/2c0a8d93ea01e98b731568c7c6cad8c5284c73f3/Figura15-86.PNG)
    
    31.Para el circuito de la figura 15-88, determine lo siguiente en forma polar:
+   
+   ![](https://github.com/jlcastro5/Tarea8/blob/4e878aa0e815812e57d61398ec61c1513a2a3495/Figura15-88.PNG)
 
    *33.Determine el o los elementos dispuestos en serie que deben ser instalados en el bloque de la
    figura 15-90 para satisfacer los siguientes requerimientos: Preal =400 W y un factor de potencia 
    de adelanto (Itot aparece adelantada con respecto a Vs).
    
+   ![](https://github.com/jlcastro5/Tarea8/blob/4e878aa0e815812e57d61398ec61c1513a2a3495/Figura15-90.PNG)
+   
    35.El circuito de retraso de la figura 15-91 también actúa como filtro pasabajas. Trace una curva 
    de respuesta para este circuito marcando el voltaje de salida contra la frecuencia de 0 Hz a 10 kHz 
    en incrementos de 1 kHz.
    
+   ![](https://github.com/jlcastro5/Tarea8/blob/4e878aa0e815812e57d61398ec61c1513a2a3495/Figura15-91.PNG)
+   
    37.Trace la curva de respuesta a la frecuencia de amplitud de salida para el circuito de adelanto 
    de la figura 15-92 con un intervalo de frecuencia de 0 Hz a 10 kHz en incrementos de 1 kHz.
    
+   ![](https://github.com/jlcastro5/Tarea8/blob/4e878aa0e815812e57d61398ec61c1513a2a3495/Figura15-92.PNG)
+   
    39.Repita el problema 38 para el circuito de la figura 15-92. Vs =10 V rms y f =1 kHz.
+
+   ![](https://github.com/jlcastro5/Tarea8/blob/4e878aa0e815812e57d61398ec61c1513a2a3495/Figura15-92.PNG)
 
 
    
@@ -91,15 +122,22 @@
    *SECCIÓN 15–5 Impedancia y admitancia de circuitos RC en paralelo *
    
    41.Determine la magnitud de la impedancia y el ángulo de fase en la figura 15-94.
+
+   ![](https://github.com/jlcastro5/Tarea8/blob/4e878aa0e815812e57d61398ec61c1513a2a3495/Figura15-94.PNG)
    
    *SECCIÓN 15–6 Análisis de circuitos RC en paralelo*
    
    43.Para el circuito de la figura 15-95, encuentre todas las corrientes y los voltajes en forma polar.
 
+   ![](https://github.com/jlcastro5/Tarea8/blob/2c0a8d93ea01e98b731568c7c6cad8c5284c73f3/Figura15-95.PNG)
+
    45. Para el circuito de la figura 15-97, determine lo siguiente:
+   
+   ![](https://github.com/jlcastro5/Tarea8/blob/2c0a8d93ea01e98b731568c7c6cad8c5284c73f3/Figura15-97.PNG)
 
    *47.Cambie el circuito de la figura 15-98 a una forma equivalente dispuesta en serie.
    
+   ![](https://github.com/jlcastro5/Tarea8/blob/2c0a8d93ea01e98b731568c7c6cad8c5284c73f3/Figura15-98.PNG)
    
    
    PARTE 3: CIRCUITOS EN SERIE-PARALELO
@@ -109,12 +147,20 @@
    49.Determine los voltajes en forma polar a través de cada elemento de la figura 15-100. 
    Trace el diagrama fasorial de voltaje. 
    
+   ![](https://github.com/jlcastro5/Tarea8/blob/2c0a8d93ea01e98b731568c7c6cad8c5284c73f3/Figura15-100.PNG)
+   
    51.Encuentre la corriente a través de cada rama y la corriente total en la figura 15-100. 
    Exprese las corrientes en forma polar. Trace el diagrama fasorial de corriente.
    
+   ![](https://github.com/jlcastro5/Tarea8/blob/2c0a8d93ea01e98b731568c7c6cad8c5284c73f3/Figura15-100.PNG)
+   
    *53.Determine el valor de C2 en la figura 15-102 cuando VA = VB
    
+   ![](https://github.com/jlcastro5/Tarea8/blob/2c0a8d93ea01e98b731568c7c6cad8c5284c73f3/Figura15-102.PNG)
+   
    *55.Encuentre la corriente a través de cada componente en la figura 15-103.
+   
+   ![](https://github.com/jlcastro5/Tarea8/blob/2c0a8d93ea01e98b731568c7c6cad8c5284c73f3/Figura15-103.PNG)
    
    
    
@@ -126,6 +172,8 @@
    Determine la potencia aparente.
    
    59.¿Cuál es el factor de potencia para el circuito de la figura 15-98?
+   
+   ![](https://github.com/jlcastro5/Tarea8/blob/2c0a8d93ea01e98b731568c7c6cad8c5284c73f3/Figura15-98.PNG)
 
    *61.Una sola fuente de 240 V y 60 Hz alimenta dos cargas. La carga A tiene impedancia de 50 Æ y factor
    de potencia de 0.85. La carga B tiene impedancia de 72 Æ y factor de potencia de 0.95.
@@ -142,14 +190,20 @@
    de señal a la entrada del amplificador 2 sea por lo menos un 70.7% del voltaje de señal a la salida 
    del amplificador 1 cuando la frecuencia es de 20 Hz?
    
+   ![](https://github.com/jlcastro5/Tarea8/blob/2c0a8d93ea01e98b731568c7c6cad8c5284c73f3/Figura15-104.PNG)
+   
    *SECCIÓN 15–10 Localización de fallas*
    
    65.Suponga que el capacitor de la figura 15-106 tiene fugas en exceso. Muestre cómo afecta esta 
    degradación al voltaje de salida y al ángulo de fase, suponiendo que la resistencia de fuga es de 5 kΩ
    y la frecuencia de 10 Hz.
    
+   ![](https://github.com/jlcastro5/Tarea8/blob/2c0a8d93ea01e98b731568c7c6cad8c5284c73f3/Figura15-106.PNG)
+   
    67.Determine el voltaje de salida para el circuito de la figura 15-107(a) para cada uno de los siguientes
    modos de falla, y compárelo con la salida correcta:
+   
+   ![](https://github.com/jlcastro5/Tarea8/blob/2c0a8d93ea01e98b731568c7c6cad8c5284c73f3/Figura15-107.PNG)
    
    **CAPITULO 16**
    
