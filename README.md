@@ -48,10 +48,21 @@
   
    11.Identifique el cuadrante en el cual se localiza cada uno de los puntos del problema 8.
 
+    * Cuarto cuadrante a,b y c
+    * Primero cuadrante d
+
    13.Escriba las expresiones polares utilizando ángulos positivos para cada uno de los fasores de la 
    figura 15-83. 
    
    ![](https://github.com/jlcastro5/Tarea8/blob/4e878aa0e815812e57d61398ec61c1513a2a3495/Figura15-83.PNG)
+   
+    a) 12<115°
+    
+    b) 20<230°
+    
+    c) 100<190°
+    
+    d) 50<160°
    
    15.Realice las siguientes sustracciones:
 
