@@ -45,6 +45,8 @@
    9.Convierta cada uno de los siguientes números polares a forma rectangular:
 
    a) 100<-50°      b) 15<160°       c) 25<-135°       d) 3<180° 
+   
+    ![](https://github.com/jlcastro5/Tarea8/blob/16ea3e1a8b6f0608cefeb8fc939af81e8ef564fc/E9.PNG)
   
    11.Identifique el cuadrante en el cual se localiza cada uno de los puntos del problema 8.
 
@@ -63,12 +65,15 @@
     c) 100<190°
     
     d) 50<160°
+    
    
    15.Realice las siguientes sustracciones:
 
+    ![](https://github.com/jlcastro5/Tarea8/blob/16ea3e1a8b6f0608cefeb8fc939af81e8ef564fc/E15.PNG)
+
    17.Realice las siguientes divisiones:
 
-   
+    ![](https://github.com/jlcastro5/Tarea8/blob/16ea3e1a8b6f0608cefeb8fc939af81e8ef564fc/E17.PNG)
    
    *SECCIÓN 15–2 Respuesta sinusoidal de circuitos RC en serie*
    
@@ -83,13 +88,19 @@
    
    ![](https://github.com/jlcastro5/Tarea8/blob/4e878aa0e815812e57d61398ec61c1513a2a3495/Figura15-84.PNG)
    
+   ![](https://github.com/jlcastro5/Tarea8/blob/16ea3e1a8b6f0608cefeb8fc939af81e8ef564fc/E21.PNG)
+   
    23.Para el circuito de la figura 15-86, determine la impedancia expresada en forma rectangular
    para cada una de las siguientes frecuencias:
    
    ![](https://github.com/jlcastro5/Tarea8/blob/4e878aa0e815812e57d61398ec61c1513a2a3495/Figura15-86.PNG)
    
+   ![](https://github.com/jlcastro5/Tarea8/blob/16ea3e1a8b6f0608cefeb8fc939af81e8ef564fc/E23.PNG)
+   
    25.Determine los valores de R y XC en un circuito RC en serie para los siguientes valores de impedancia
    total:
+   
+   ![](https://github.com/jlcastro5/Tarea8/blob/16ea3e1a8b6f0608cefeb8fc939af81e8ef564fc/E25.PNG)
    
    *SECCIÓN 15–4 Análisis de circuitos RC en serie*
    
@@ -97,13 +108,19 @@
 
    ![](https://github.com/jlcastro5/Tarea8/blob/2c0a8d93ea01e98b731568c7c6cad8c5284c73f3/Figura15-85.PNG)
    
+   ![](https://github.com/jlcastro5/Tarea8/blob/16ea3e1a8b6f0608cefeb8fc939af81e8ef564fc/E27.PNG)
+   
    29.Repita el problema 28 para el circuito de la figura 15-86, con f =5 kHz.
 
    ![](https://github.com/jlcastro5/Tarea8/blob/2c0a8d93ea01e98b731568c7c6cad8c5284c73f3/Figura15-86.PNG)
    
+   ![](https://github.com/jlcastro5/Tarea8/blob/16ea3e1a8b6f0608cefeb8fc939af81e8ef564fc/E29.PNG)
+   
    31.Para el circuito de la figura 15-88, determine lo siguiente en forma polar:
    
    ![](https://github.com/jlcastro5/Tarea8/blob/4e878aa0e815812e57d61398ec61c1513a2a3495/Figura15-88.PNG)
+   
+   ![](https://github.com/jlcastro5/Tarea8/blob/16ea3e1a8b6f0608cefeb8fc939af81e8ef564fc/E31.PNG)
 
    *33.Determine el o los elementos dispuestos en serie que deben ser instalados en el bloque de la
    figura 15-90 para satisfacer los siguientes requerimientos: Preal =400 W y un factor de potencia 
@@ -117,16 +134,20 @@
    
    ![](https://github.com/jlcastro5/Tarea8/blob/4e878aa0e815812e57d61398ec61c1513a2a3495/Figura15-91.PNG)
    
+   ![](https://github.com/jlcastro5/Tarea8/blob/8f9f4b3defe1e510f89fc851686bc027e6152f27/E35.PNG)
+   
    37.Trace la curva de respuesta a la frecuencia de amplitud de salida para el circuito de adelanto 
    de la figura 15-92 con un intervalo de frecuencia de 0 Hz a 10 kHz en incrementos de 1 kHz.
    
    ![](https://github.com/jlcastro5/Tarea8/blob/4e878aa0e815812e57d61398ec61c1513a2a3495/Figura15-92.PNG)
    
+   ![](https://github.com/jlcastro5/Tarea8/blob/8f9f4b3defe1e510f89fc851686bc027e6152f27/E37.PNG)
+   
    39.Repita el problema 38 para el circuito de la figura 15-92. Vs =10 V rms y f =1 kHz.
 
    ![](https://github.com/jlcastro5/Tarea8/blob/4e878aa0e815812e57d61398ec61c1513a2a3495/Figura15-92.PNG)
 
-
+   ![](https://github.com/jlcastro5/Tarea8/blob/8f9f4b3defe1e510f89fc851686bc027e6152f27/E39.PNG)
    
    PARTE 2: CIRCUITOS EN PARALELO
    
@@ -136,20 +157,29 @@
 
    ![](https://github.com/jlcastro5/Tarea8/blob/4e878aa0e815812e57d61398ec61c1513a2a3495/Figura15-94.PNG)
    
+   ![](https://github.com/jlcastro5/Tarea8/blob/16ea3e1a8b6f0608cefeb8fc939af81e8ef564fc/E41.PNG)
+   
    *SECCIÓN 15–6 Análisis de circuitos RC en paralelo*
    
    43.Para el circuito de la figura 15-95, encuentre todas las corrientes y los voltajes en forma polar.
 
    ![](https://github.com/jlcastro5/Tarea8/blob/2c0a8d93ea01e98b731568c7c6cad8c5284c73f3/Figura15-95.PNG)
+   
+   ![](https://github.com/jlcastro5/Tarea8/blob/16ea3e1a8b6f0608cefeb8fc939af81e8ef564fc/E43.PNG)
 
    45. Para el circuito de la figura 15-97, determine lo siguiente:
    
    ![](https://github.com/jlcastro5/Tarea8/blob/2c0a8d93ea01e98b731568c7c6cad8c5284c73f3/Figura15-97.PNG)
+   
+   ![](https://github.com/jlcastro5/Tarea8/blob/16ea3e1a8b6f0608cefeb8fc939af81e8ef564fc/E45.PNG)
 
    *47.Cambie el circuito de la figura 15-98 a una forma equivalente dispuesta en serie.
    
    ![](https://github.com/jlcastro5/Tarea8/blob/2c0a8d93ea01e98b731568c7c6cad8c5284c73f3/Figura15-98.PNG)
    
+   ![](https://github.com/jlcastro5/Tarea8/blob/320373e1215e29ce655375db8b87fab555ac5199/D47.PNG)
+   
+   ![](https://github.com/jlcastro5/Tarea8/blob/16ea3e1a8b6f0608cefeb8fc939af81e8ef564fc/E47.PNG)
    
    PARTE 3: CIRCUITOS EN SERIE-PARALELO
    
@@ -160,10 +190,14 @@
    
    ![](https://github.com/jlcastro5/Tarea8/blob/2c0a8d93ea01e98b731568c7c6cad8c5284c73f3/Figura15-100.PNG)
    
+   ![](https://github.com/jlcastro5/Tarea8/blob/ca6580d1d4b27a778157568f12c855ccd198cc2b/E49.PNG)
+   
    51.Encuentre la corriente a través de cada rama y la corriente total en la figura 15-100. 
    Exprese las corrientes en forma polar. Trace el diagrama fasorial de corriente.
    
    ![](https://github.com/jlcastro5/Tarea8/blob/2c0a8d93ea01e98b731568c7c6cad8c5284c73f3/Figura15-100.PNG)
+   
+   ![](https://github.com/jlcastro5/Tarea8/blob/ca6580d1d4b27a778157568f12c855ccd198cc2b/E51.PNG)
    
    *53.Determine el valor de C2 en la figura 15-102 cuando VA = VB
    
@@ -173,7 +207,7 @@
    
    ![](https://github.com/jlcastro5/Tarea8/blob/2c0a8d93ea01e98b731568c7c6cad8c5284c73f3/Figura15-103.PNG)
    
-   
+   ![](https://github.com/jlcastro5/Tarea8/blob/ca6580d1d4b27a778157568f12c855ccd198cc2b/E55.PNG)   
    
    PARTE 4: TEMAS ESPECIALES
    
@@ -182,9 +216,13 @@
    57.En un circuito RC en serie, la potencia real es de 2 W y la potencia reactiva de 3.5 VAR. 
    Determine la potencia aparente.
    
+   ![](https://github.com/jlcastro5/Tarea8/blob/ca6580d1d4b27a778157568f12c855ccd198cc2b/E57.PNG)
+   
    59.¿Cuál es el factor de potencia para el circuito de la figura 15-98?
    
    ![](https://github.com/jlcastro5/Tarea8/blob/2c0a8d93ea01e98b731568c7c6cad8c5284c73f3/Figura15-98.PNG)
+   
+   ![](https://github.com/jlcastro5/Tarea8/blob/ca6580d1d4b27a778157568f12c855ccd198cc2b/E59.PNG)
 
    *61.Una sola fuente de 240 V y 60 Hz alimenta dos cargas. La carga A tiene impedancia de 50 Æ y factor
    de potencia de 0.85. La carga B tiene impedancia de 72 Æ y factor de potencia de 0.95.
@@ -194,6 +232,8 @@
        (c) ¿Cuál es la potencia real en cada carga?
        (d) ¿Cuál es la potencia aparente en cada carga?
        (e) ¿Cuál carga tiene más caída de voltaje a lo largo de las líneas que la conectan a la fuente?
+       
+    ![](https://github.com/jlcastro5/Tarea8/blob/ca6580d1d4b27a778157568f12c855ccd198cc2b/E61.PNG)
    
    *SECCIÓN 15–9 Aplicaciones básicas*
    
