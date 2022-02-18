@@ -320,15 +320,37 @@
    13.Si se duplica la inductancia que aparece en la figura 16-58, ¿en cuántos grados aumenta o disminuye θ?
 
    ![](https://github.com/jlcastro5/Tarea8/blob/c1b04c138698db64c0055c7b4c4793117cfe83ea/Figura16-58.PNG)
+   
+   
+   ![]()
+   
 
    15.Para el circuito de la figura 16-59, encuentre VR y VL para cada una de las siguientes frecuencias:
 
    ![](https://github.com/jlcastro5/Tarea8/blob/c1b04c138698db64c0055c7b4c4793117cfe83ea/Figura16-59.PNG)
+      
+   ![](https://github.com/jlcastro5/Tarea8/blob/b17a87e713139583588a58300d584482a5df4077/p1.1.PNG)      
+   
+   ![](https://github.com/jlcastro5/Tarea8/blob/b17a87e713139583588a58300d584482a5df4077/p1.2.PNG) 
+   
+   ![](https://github.com/jlcastro5/Tarea8/blob/b17a87e713139583588a58300d584482a5df4077/p1.3.PNG)
+   
+   ![](https://github.com/jlcastro5/Tarea8/blob/b17a87e713139583588a58300d584482a5df4077/p1.4.PNG)
    
    17.Para el circuito de retraso de la figura 16-61, determine el retraso de fase del voltaje de salida con 
    respecto a la entrada a las siguientes frecuencias:
       
    ![](https://github.com/jlcastro5/Tarea8/blob/c1b04c138698db64c0055c7b4c4793117cfe83ea/Figura16-61.PNG)
+      
+   ![](https://github.com/jlcastro5/Tarea8/blob/b17a87e713139583588a58300d584482a5df4077/p2.1.PNG) 
+   
+   ![](https://github.com/jlcastro5/Tarea8/blob/b17a87e713139583588a58300d584482a5df4077/p2.2.PNG) 
+   
+   ![](https://github.com/jlcastro5/Tarea8/blob/b17a87e713139583588a58300d584482a5df4077/p2.3.PNG)
+        
+   ![](https://github.com/jlcastro5/Tarea8/blob/b17a87e713139583588a58300d584482a5df4077/p2.4.PNG)
+   
+   
    
    
    PARTE 2 CIRCUITOS EN PARALELO
@@ -338,10 +360,14 @@
    19.¿Cuál es la impedancia expresada en forma polar para el circuito de la figura 16-63?.
    
    ![](https://github.com/jlcastro5/Tarea8/blob/c1b04c138698db64c0055c7b4c4793117cfe83ea/Figura16-63.PNG)
+      
+   ![](https://github.com/jlcastro5/Tarea8/blob/b17a87e713139583588a58300d584482a5df4077/p3.1.PNG)
    
    21.¿A qué frecuencia XL es igual a R en la figura 16-63?
    
    ![](https://github.com/jlcastro5/Tarea8/blob/c1b04c138698db64c0055c7b4c4793117cfe83ea/Figura16-63.PNG)
+      
+   ![](https://github.com/jlcastro5/Tarea8/blob/b17a87e713139583588a58300d584482a5df4077/p4.PNG)
    
    
    *SECCIÓN 16–5 Análisis de circuitos RL en paralelo*
@@ -349,10 +375,16 @@
    23.Determine las siguientes cantidades en la figura 16-65:
    
    ![](https://github.com/jlcastro5/Tarea8/blob/c1b04c138698db64c0055c7b4c4793117cfe83ea/Figura16-65.PNG)
+      
+   ![](https://github.com/jlcastro5/Tarea8/blob/b17a87e713139583588a58300d584482a5df4077/p5.PNG)
+   
+   ![](https://github.com/jlcastro5/Tarea8/blob/b17a87e713139583588a58300d584482a5df4077/p23.PNG)
    
    25.Convierta el circuito mostrado en la figura 16-66 en uno equivalente en serie.
    
    ![](https://github.com/jlcastro5/Tarea8/blob/c1b04c138698db64c0055c7b4c4793117cfe83ea/Figura16-66.PNG)
+      
+   ![](https://github.com/jlcastro5/Tarea8/blob/b17a87e713139583588a58300d584482a5df4077/p25.PNG)
    
    PARTE 3: CIRCUITOS EN SERIE-PARALELO
    
@@ -362,20 +394,28 @@
    Trace el diagrama fasorial de voltaje.
    
    ![](https://github.com/jlcastro5/Tarea8/blob/c1b04c138698db64c0055c7b4c4793117cfe83ea/Figura16-68.PNG)
+      
+   ![]()
    
    29.Determine la corriente en cada rama y la corriente total en la figura 16-68. Expréselas en forma polar.
    Trace el diagrama fasorial de la corriente.
    
    ![](https://github.com/jlcastro5/Tarea8/blob/c1b04c138698db64c0055c7b4c4793117cfe83ea/Figura16-68.PNG)
+      
+   ![](https://github.com/jlcastro5/Tarea8/blob/b17a87e713139583588a58300d584482a5df4077/p29.PNG)
    
    *31.Para el circuito de la figura 16-70, determine lo siguiente:
    
    ![](https://github.com/jlcastro5/Tarea8/blob/c1b04c138698db64c0055c7b4c4793117cfe83ea/Figura16-70.PNG)
+      
+   ![](https://github.com/jlcastro5/Tarea8/blob/b17a87e713139583588a58300d584482a5df4077/p31.PNG)
    
    33.Determine el desplazamiento de fase y la atenuación (relación de Vsal a Vent) desde la entrada hasta la
    salida en el circuito de la figura 16-71.
    
    ![](https://github.com/jlcastro5/Tarea8/blob/c1b04c138698db64c0055c7b4c4793117cfe83ea/Figura16-71.PNG)
+      
+   ![]()
    
    35.Diseñe un circuito conmutador inductivo ideal que suministre un voltaje momentáneo de 2.5 kV con
    una fuente de 12 V de cd cuando un interruptor es cambiado instantáneamente de una posición a otra.
@@ -389,10 +429,14 @@
    37.Determine la potencia verdadera y la potencia reactiva en la figura 16-58.
    
    ![](https://github.com/jlcastro5/Tarea8/blob/c1b04c138698db64c0055c7b4c4793117cfe83ea/Figura16-58.PNG)
+      
+   ![]()
 
    39.Determine P, Q, S y FP para el circuito de la figura 16-69. Trace el triángulo de potencia
    
    ![](https://github.com/jlcastro5/Tarea8/blob/c1b04c138698db64c0055c7b4c4793117cfe83ea/Figura16-69.PNG)
+      
+   ![]()
    
    *SECCIÓN 16–8 Aplicaciones básicas*
    
@@ -400,12 +444,16 @@
    la frecuencia en incrementos de 1 kHz desde 0 Hz hasta 5 kHz.
    
    ![](https://github.com/jlcastro5/Tarea8/blob/c1b04c138698db64c0055c7b4c4793117cfe83ea/Figura16-61.PNG)
+      
+   ![]()
    
    43.Trace el diagrama fasorial de voltaje para cada circuito de las figuras 16-61 y 16-62 a una frecuencia
    de 8 kHz.
    
    ![](https://github.com/jlcastro5/Tarea8/blob/c1b04c138698db64c0055c7b4c4793117cfe83ea/Figura16-61.PNG) 
    ![](https://github.com/jlcastro5/Tarea8/blob/c1b04c138698db64c0055c7b4c4793117cfe83ea/Figura16-62.PNG)
+      
+   ![]()
 
    
    *SECCIÓN 16–9 Localización de fallas*
@@ -413,6 +461,8 @@
    45.Determine el voltaje de salida en la figura 16-73 para cada uno de los siguientes modos de falla:
 
    ![](https://github.com/jlcastro5/Tarea8/blob/c1b04c138698db64c0055c7b4c4793117cfe83ea/Figura16-73.PNG)
+      
+   ![]()
 
 
 4. VIDEO
