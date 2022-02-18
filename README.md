@@ -2,11 +2,14 @@
 1. OBJETIVOS 
 
    Objetivo general
-
+     
+     * Explicar y resolver los problemas presentados en los capítulos quince y dieciséis del libro "Principios de circuitos eléctricos" de Floyd mediante el uso de los conocimientos adquiridos en clases y el contenido del libro referente a circuitos RL y RC con fuentes de corriente alterna para de esta manera poder encontrar un voltaje y las corrientes teniendo en cuenta los voltajes rms y pico a pico, su transformacion, sus frecuencias y desfaces, permitiéndonos identificar las características correspondientes y lograr resolver cualquier tipo de circuito con un análisis y razonamiento adecuado.
 
    Objetivos específicos
    
-     * 
+     * Identificar de una manera agil lo solicitado, resolver los circuitos mediante los los metodos explicados en los precentes capitulos sobre inductores y capacitores con corriente alterna.
+     * Analizar de forma correcta los resultaos obtenidos obtenidos por los simuladores virtuales en multisim, empleando osiloscopios, establecer la relación con los elementos reales y entender como interactua la corriente alterna con los inductores y capacitores.
+
 
 
 2. MARCO TEORICO
@@ -469,7 +472,7 @@
 
 5. CONCLUSIONES
 
-*	
+*	Por medio del presente trabajo permitió aplicar los métodos ya conocidos sobre los inductores y los capacitores en un circuito electrico con reciostencias, tanto en serie como el paralelo, la resolución de circuitos eléctricos con capacitores, inductores y resistencias, otorgó resultados confiables ya que fueron relacionados con los con simuladores virtuales, cada circuito reporto valores importantes que permitieron entender los resultados y así brindar un análisis correcto, por lo tanto llegamos a comprender la aplicación del actual tema tratado.
 
 6. BIBLIOGRAFÍA 
  
