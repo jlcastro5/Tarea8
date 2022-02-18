@@ -128,6 +128,10 @@
    
    ![](https://github.com/jlcastro5/Tarea8/blob/4e878aa0e815812e57d61398ec61c1513a2a3495/Figura15-90.PNG)
    
+   Mediante los datos del voltaje y la corriente podemos realizar un analisis mediantes las formulas de potencial real
+   para lo cual tenemos que encontrar el angulo correspondiente a la intensidad por lo cual los componentes que estan
+   en el bloque son una RX=12 ohm y CX= 13.25uF.
+   
    35.El circuito de retraso de la figura 15-91 también actúa como filtro pasabajas. Trace una curva 
    de respuesta para este circuito marcando el voltaje de salida contra la frecuencia de 0 Hz a 10 kHz 
    en incrementos de 1 kHz.
@@ -234,6 +238,9 @@
        (e) ¿Cuál carga tiene más caída de voltaje a lo largo de las líneas que la conectan a la fuente?
        
     ![](https://github.com/jlcastro5/Tarea8/blob/ca6580d1d4b27a778157568f12c855ccd198cc2b/E61.PNG)
+    
+    Mediante el analisis correspondiente podemos llegar a la conclusion de la pregunta (e) que la carga con mas
+    caida de voltaje es la carga A.
    
    *SECCIÓN 15–9 Aplicaciones básicas*
    
@@ -243,6 +250,10 @@
    
    ![](https://github.com/jlcastro5/Tarea8/blob/2c0a8d93ea01e98b731568c7c6cad8c5284c73f3/Figura15-104.PNG)
    
+   Tomando en cuentra que nuestra salida de voltaje y entrada tiene una frecuencia de 20Hz, podemos realizar
+   el siguiente analisis para lo cual podemos aplicar la formula de frecuencia con datos de RC para lo cual
+   despejamos C y obtendremos el valor de la capitancia de 0.0795uF.
+   
    *SECCIÓN 15–10 Localización de fallas*
    
    65.Suponga que el capacitor de la figura 15-106 tiene fugas en exceso. Muestre cómo afecta esta 
@@ -251,10 +262,17 @@
    
    ![](https://github.com/jlcastro5/Tarea8/blob/2c0a8d93ea01e98b731568c7c6cad8c5284c73f3/Figura15-106.PNG)
    
+   En este circuito como datos nos da la resistencia y la frecuencia la cula podemos aplicar las formulas 
+   correspondientes las cuales nos arroja que el voltaje tiene una reduccion del 2.82V, en tanto al angulo
+   de fase obtenemos una reduccion del -56.8°.
+   
    67.Determine el voltaje de salida para el circuito de la figura 15-107(a) para cada uno de los siguientes
    modos de falla, y compárelo con la salida correcta:
    
    ![](https://github.com/jlcastro5/Tarea8/blob/2c0a8d93ea01e98b731568c7c6cad8c5284c73f3/Figura15-107.PNG)
+   
+   En este problema podemos reducir que no existe voltaje de salida en R1 y en R1 el cual corresponde al 320<-71.3°
+   por lo tanto en C abierto obtenemos 50<0° y en el cortocircuito un voltaje de 0V 
    
    **CAPITULO 16**
    
@@ -273,15 +291,17 @@
 
    ![](https://github.com/jlcastro5/Tarea8/blob/c1b04c138698db64c0055c7b4c4793117cfe83ea/Figura16-54.PNG)
    
-   ![]()
+   ![](https://github.com/jlcastro5/Tarea8/blob/f36090f77c6b578c57bb94a0a450cd3921b21ef0/E6.3.PNG)
 
    5.En la figura 16-56, determine la impedancia para cada una de las siguientes frecuencias:
 
-   ![]()
+   ![](https://github.com/jlcastro5/Tarea8/blob/f36090f77c6b578c57bb94a0a450cd3921b21ef0/E6.5.PNG)
 
    7.Reduzca el circuito de la figura 16-57 a una sola resistencia e inductancia en serie.
 
    ![](https://github.com/jlcastro5/Tarea8/blob/c1b04c138698db64c0055c7b4c4793117cfe83ea/Figura16-57.PNG)
+   
+   ![](https://github.com/jlcastro5/Tarea8/blob/f36090f77c6b578c57bb94a0a450cd3921b21ef0/E6.7.PNG)
    
    *SECCIÓN 16–3 Análisis de circuitos RL en serie*
    
@@ -293,6 +313,8 @@
    11.Calcule la corriente total en cada circuito de la figura 16-55 y exprésela en forma polar.
 
    ![](https://github.com/jlcastro5/Tarea8/blob/c1b04c138698db64c0055c7b4c4793117cfe83ea/Figura16-55.PNG)
+   
+   ![](https://github.com/jlcastro5/Tarea8/blob/f36090f77c6b578c57bb94a0a450cd3921b21ef0/E6.11.PNG)
    
    13.Si se duplica la inductancia que aparece en la figura 16-58, ¿en cuántos grados aumenta o disminuye θ?
 
