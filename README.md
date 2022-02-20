@@ -465,10 +465,11 @@
 
    ![](https://github.com/jlcastro5/Tarea8/blob/c1b04c138698db64c0055c7b4c4793117cfe83ea/Figura16-73.PNG)
       
-   ![]()
 
 
 4. VIDEO
+
+   https://www.youtube.com/watch?v=F9h6vuqV7ew
 
 5. CONCLUSIONES
 
